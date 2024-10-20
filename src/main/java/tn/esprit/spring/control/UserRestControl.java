@@ -16,7 +16,7 @@ public class UserRestControl {
 
 	@Autowired 
 	IUserService userService; 
-
+    //med amine nouira
 	
 	// URL : http://localhost:????/????/????/retrieve-all-users
 	@GetMapping("/retrieve-all-users")
@@ -56,4 +56,3 @@ public class UserRestControl {
 	}
 	 
 } 
- 
